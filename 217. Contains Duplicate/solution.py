@@ -1,3 +1,5 @@
+# Link: https://leetcode.com/problems/contains-duplicate/
+
 # (if n denotes to counts of numbers in nums)
 # Time Complexity: O(n)
 # ... In each iteration, search and insertion of the hash set both takes
