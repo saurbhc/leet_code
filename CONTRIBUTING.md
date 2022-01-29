@@ -7,7 +7,16 @@
 2. Create new branch and push code to new branch.
 3. Create pull-request in this repo.
 
-# Run pre-commit
+# pre-commit
+#### Install pre-commit
+```python
+python3 -m venv .venv
+chmod +x && . .activate.sh
+pip install pre-commit
+pre-commit install
+```
+
+#### Run pre-commit
 ```python
 pre-commit run --all-files
 ```
