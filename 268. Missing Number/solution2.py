@@ -2,6 +2,8 @@
 
 # ... XOR Operation for finding the missing Number
 # Time Complexity: O(n)
+# ... Taking sum of 1st iter will be O(n) and 2nd iter will be O(n)
+# ... therefore, O(2n)
 # Space Complexity: O(1)
 from typing import List
 
