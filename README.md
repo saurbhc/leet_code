@@ -1,4 +1,4 @@
-I will be solving [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/) in python3.9.9
+Solving [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/) in python3.9.9
 
 - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [missing-number](https://leetcode.com/problems/missing-number/)
