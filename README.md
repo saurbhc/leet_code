@@ -2,7 +2,7 @@ Solving [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/) in pytho
 
 - [x] [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [missing-number](https://leetcode.com/problems/missing-number/)
-- [ ] [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+- [x] [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [ ] [single-number](https://leetcode.com/problems/single-number/)
 - [ ] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
