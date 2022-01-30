@@ -4,7 +4,7 @@ Solving [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/) in pytho
 - [x] [missing-number](https://leetcode.com/problems/missing-number/)
 - [x] [find-all-numbers-disappeared-in-an-array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 - [x] [single-number](https://leetcode.com/problems/single-number/)
-- [ ] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
+- [x] [climbing-stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [best-time-to-buy-and-sell-stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [ ] [maximum-subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/)
