@@ -10,7 +10,7 @@ Solving [LEETCODE PATTERNS](https://seanprashad.com/leetcode-patterns/) in pytho
 - [x] [range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 - [x] [counting-bits](https://leetcode.com/problems/counting-bits/)
 - [x] [linked-list-cycle](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] [middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] [middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [ ] [palindrome-linked-list](https://leetcode.com/problems/palindrome-linked-list/)
 - [ ] [remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements/)
 - [ ] [remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
